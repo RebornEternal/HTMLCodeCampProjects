@@ -1,5 +1,5 @@
 # HTMLCodeCampProjects
-A series of projects designed to test basic understanding of HTML/HTML5 &amp; CSS
+A series of projects designed to test basic understanding of HTML/HTML5 &amp; CSS.
 5 Projects total:
 #1: Tribute Page
 #2: Survey Form
