@@ -8,7 +8,7 @@
       <a class="nav-link" href="#What_you_should_already_know">What you should already know</a>
     </li>
     <li>
-      <a class="nav-link" href="#Javascript_and_Java">Javascript and Java</a>
+      <a class="nav-link" href="#Javascript_&_Java">Javascript & Java</a>
     </li>
     <li>
       <a class="nav-link" href="#Hello_world">Hello world</a>
@@ -37,7 +37,7 @@
     <li>
       <a class="nav-link" href="#while_statement">while statement</a>
     </li>
-    <a class="nav-link" href="#Function_declaration">Function declaration</a>
+    <a class="nav-link" href="#Function_declarations">Function declarations</a>
     </li>
   <li>
     <a class="nav-link" href="#Reference">Reference</a>
@@ -97,8 +97,8 @@
       </ul> 
     </article>
   </section>
-  <section class="main-section" id="Javascript_and_Java">
-    <header>Javascript and Java</header>
+  <section class="main-section" id="Javascript_&_Java">
+    <header>Javascript & Java</header>
     <article>
       <p>
          JavaScript and Java are similar in some ways but fundamentally different
@@ -129,6 +129,7 @@
     </article>
   </section>
   <section class="main-section" id="Hello_world">
+    <header>Hello world</header>
     <article>
       <p>
           To get started with writing JavaScript, open the Scratchpad and write your
@@ -234,7 +235,7 @@
       </p>
     </article>
   </section>
-  <section class="main-section" id="#Constants">
+  <section class="main-section" id="Constants">
     <header>Constants</header>
     <article>
       <p>
@@ -303,7 +304,7 @@
         your application can perform.</p>
     </article>
   </section>
-  <section class="main-section" id="if...else_statment">
+  <section class="main-section" id="if...else_statement">
     <header>if...else statement</header>
     <article>
       <p>
@@ -344,7 +345,7 @@
     </article>
   </section>
   <section class="main-section" id="while_statement">
-    <header>while statment</header>
+    <header>while statement</header>
     <article>
         A while statement executes its statements as long as a specified condition
       evaluates to true. A while statement looks as follows:
@@ -435,3 +436,6 @@
     </article>
   </section>
 </main>
+    
+          
+    
